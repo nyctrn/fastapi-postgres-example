@@ -121,7 +121,7 @@ cd app
 pytest
 ```
 
-### Application overview
+#### Application overview
 
 ![Image of Yaktocat](assets/img/fastapi-lab.png)
 
